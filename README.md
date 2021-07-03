@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smw5qz
-- 👀 I’m interested in Raspberry Pi / IOT, open source software
+- 👀 I’m interested in Raspberry Pi / IOT, open source software, and algorithmic trading
 - 🌱 I’m currently learning Python, Linux
 - 💞️ I’m looking to collaborate on, nothing at the moment
 - 📫 How to reach me: stewartmoxleywalker@gmail.com
