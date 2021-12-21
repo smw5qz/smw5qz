@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smw5qz
+- 👋 Hi, I’m @smw5qz, aspiring data scientist
 - 👀 I’m interested in Raspberry Pi / IOT, open source software, and algorithmic trading
 - 🌱 I’m an ArchLinux user currently learning Python for data analysis & machine learning
 - 📫 How to reach me: stewartmoxleywalker@gmail.com
