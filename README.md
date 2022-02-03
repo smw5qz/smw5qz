@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smw5qz
+- 👋 Hi, I’m Stewart Walker
 - 🌱 I’m an ArchLinux user currently using Python for data analysis & machine learning
 - 👀 I’m interested in Raspberry Pi / IOT, ML, open source software, algorithmic trading, and much more
 - 📫 How to reach me: stewartmoxleywalker@gmail.com
